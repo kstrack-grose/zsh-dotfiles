@@ -17,7 +17,6 @@ brew 'unrar'
 brew 'wget'
 brew 'zsh'
 
-cask '1password'
 cask 'alfred'
 cask 'docker'
 cask 'firefox'
